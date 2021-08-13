@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calculator</title>
     <link rel="stylesheet" href="CSS/Style.css">
-    <script src="Script/App.js" defer></script>
+    <script src="Calculator.js" defer></script>
 </head>
 <body>
   
