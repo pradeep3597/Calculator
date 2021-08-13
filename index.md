@@ -51,6 +51,5 @@
   </p>
 </div>
 </div>
-<script src="calculator.js"></script>
 </body>
 </html>
