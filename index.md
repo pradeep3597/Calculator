@@ -9,9 +9,7 @@
     <script src="calculator.js" defer></script>
 </head>
 <body>
-   <h2><marquee behavior="alternate">
-      <font color="White">Calculator Created by Pradeep Kumar Gupta</font></marquee>
-    </h2>
+   <h2><marquee behavior="alternate"><font color="White">Calculator Created by Pradeep Kumar Gupta</font></marquee></h2>
 <div class="box">
  <div class="display"><input type="text" readonly size="20" id="d"></div>
  <div class="keys">
